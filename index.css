@@ -33,12 +33,6 @@
   align-items: flex-start;
   border-color: transparent;
 }
-.navbar-link {
-  display: contents;
-}
-.navbar-get-started {
-  text-decoration: none;
-}
 .navbar-text3 {
   color: rgb(255, 255, 255);
   align-self: auto;
